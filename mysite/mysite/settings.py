@@ -27,7 +27,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 # DEBUG = True
 
-ALLOWED_HOSTS = ['herokuappname.herokuapp.com']
+ALLOWED_HOSTS = ['https://cmput-404-django.herokuapp.com/']
 
 # Application definition
 
